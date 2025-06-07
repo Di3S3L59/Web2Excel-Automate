@@ -1,4 +1,4 @@
-# Automatisation de traitement de dossiers [NOM_DU_SERVICE]
+# Automatisation de traitement de dossiers
 
 ## Description
 
